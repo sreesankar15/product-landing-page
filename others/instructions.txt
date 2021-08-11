@@ -1,0 +1,7 @@
+1. Nav bar
+2. Div asking for user's email for sending weekly news letter about the latest news about 
+PC parts and accessories.
+3. Div for displaying the quality of our products and services.
+4. Div for displaying some images
+5. Div for pricing and parts used
+

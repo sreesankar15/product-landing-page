@@ -1,0 +1,64 @@
+#email-newsletter {
+    width:100vw;
+    height: 35vh;
+}
+#form {
+    width:400px;
+    margin:auto;
+}
+p {
+    color: rgb(255, 255, 18);
+    margin-top: 20px;
+    margin-left: 17vw;
+}
+.btn {
+      margin-left:21vw;
+      margin-top: 20px;
+}
+.main {
+    width: 100vw;
+    height: 100vh;
+    background: #396afc;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to bottom, #172ca1, #396afc);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to bottom, #052bff, #ffffff); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+li {
+    margin:30px 0px 0px 10vw;
+    font-size: 32px;
+}
+img {
+    width: 100%;
+    margin: auto;
+    border-width: 6px;
+    border-style: solid;
+    border-color: #052bff;
+}
+#showcase {
+    background: rgb(241, 240, 240);
+}
+.shade {
+    height: 400px;
+    background: linear-gradient(0deg,#052bff,#ffffff);
+}
+.shade2 {
+    height: 400px;
+    background: linear-gradient(0deg,#ffffff,#052bff);
+}
+#header-img {
+    width:35px;
+    border: none;
+    margin: 0px 0px 0px 30px;
+
+}
+@media (max-width:900px){
+    img {
+        width: 100%;
+        margin: 0px 10px 0px 10px;
+    }
+}
+header {
+    position: sticky;
+    top: 0px;
+    z-index: 1;
+}
